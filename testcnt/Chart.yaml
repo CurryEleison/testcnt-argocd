@@ -1,0 +1,4 @@
+apiVersion: v2
+version: 0.1.0
+name: testcnt
+description: Chart to configure ArgoCD with the testcnt project and its applications
